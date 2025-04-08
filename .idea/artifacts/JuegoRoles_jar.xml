@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JuegoRoles:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JuegoRoles_jar</output-path>
+    <root id="archive" name="ejerciciosJannelly.jar">
+      <element id="module-output" name="ejerciciosJannelly" />
+    </root>
+  </artifact>
+</component>
