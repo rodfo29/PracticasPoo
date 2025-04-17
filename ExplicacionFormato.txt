@@ -2,3 +2,4 @@
   recibir adentro de un bucle while para que cuando el usuario no cumpla con los requisitos mínimos (indice fuera de rango, valor seleccionado null, etc.) le mostremos un mensaje de advertencia y pasemos al siguiente
   iteración con "Continue" para reiniciar el formulario/Información Solicitada.
 
+-  Las ventanas principales de los menús hacerlas con JFrame y luegos los eventos de los botones hacerlos con ventanas emergentes con JoptionPane.
