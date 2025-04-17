@@ -1,0 +1,4 @@
+- Básicamente, le damos un formato lindo a la hora de quere mostrar algún tipo de información, luego, le pedimos al usuario que ingrese el indicador (índice) del elemento mostrado y dicho indificador lo debemos 
+  recibir adentro de un bucle while para que cuando el usuario no cumpla con los requisitos mínimos (indice fuera de rango, valor seleccionado null, etc.) le mostremos un mensaje de advertencia y pasemos al siguiente
+  iteración con "Continue" para reiniciar el formulario/Información Solicitada.
+
